@@ -8,9 +8,9 @@
     "styles": ["spada.css"],
     "esmodules": [],
     "packs": [],
-    "url": "https://github.com/Archer39/Wikirole",
+    "url": "https://github.com/Archer39/Spada",
     "manifest": "https://raw.githubusercontent.com/Archer39/Spada/main/module.json",
-    "download": "https://github.com/Archer39/Spada/releases/download/0.1/wikirole.zip",
+    "download": "https://github.com/Archer39/Spada/releases/download/0.1/spada.zip",
     "minimumCoreVersion": "10",
     "compatibleCoreVersion": "10.291"
 }
