@@ -10,7 +10,7 @@
     "packs": [],
     "url": "https://github.com/Archer39/Wikirole",
     "manifest": "https://raw.githubusercontent.com/Archer39/Spada/main/module.json",
-    "download": "https://github.com/Archer39/Spada/releases/download/0.29/wikirole.zip",
+    "download": "https://github.com/Archer39/Spada/releases/download/0.1/wikirole.zip",
     "minimumCoreVersion": "10",
     "compatibleCoreVersion": "10.291"
 }
