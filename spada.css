@@ -1,7 +1,7 @@
 
 
 #ui-left #logo {
-  content: url("/modules/spada/ui/img/logotogo.png");
+  content: url("/modules/spada/ui/img/logotogo.webp");
   width: 100px;
   height: 100px;
 }
@@ -35,5 +35,9 @@
     text-decoration: underline;
 }
 
-
+.message-sender {
+    color: white;
+    font-weight: bold;
+    border-bottom-color: white;
+    text-decoration: underline;
 
