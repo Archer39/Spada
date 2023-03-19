@@ -2,7 +2,7 @@
     "name": "spada",
     "title": "Anime di Spada UI",
     "description": "Interfaccia grafica personalizzata per Campagna.",
-    "version": "0.8",
+    "version": "0.9",
     "author": "Pasquale-Caos-Archer",
     "scripts": ["spada.js"],
     "styles": ["spada.css"],
@@ -10,7 +10,7 @@
     "packs": [],
     "url": "https://github.com/Archer39/Spada",
     "manifest": "https://raw.githubusercontent.com/Archer39/Spada/main/module.json",
-    "download": "https://github.com/Archer39/Spada/releases/download/0.8/spada.zip",
+    "download": "https://github.com/Archer39/Spada/releases/download/0.9/spada.zip",
     "minimumCoreVersion": "10",
     "compatibleCoreVersion": "10.291"
 }
