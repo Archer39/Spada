@@ -29,6 +29,10 @@
 /* #region Chat Tab*/
 .message{
     background-image: url(/modules/wikirole/ui/img/chatcard.webp) !important;
+    color: white;
+    font-weight: bold;
+    border-bottom-color: white;
+    text-decoration: underline;
 }
 
 
