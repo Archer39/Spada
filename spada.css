@@ -19,14 +19,10 @@
 
 
 
-#pause img[src*="/modules/spada/ui/img/logotogo.png"] {
-    box-sizing: border-box;
-    width: 128px;
-    height: 128px;
-    padding-left: 128px;
+#pause{
+   background-image: url("/modules/spada/ui/img/logotogo.pngp");
+   animation: rotation 20s infinite linear;
 
-    background-image: url("/modules/spada/ui/img/logotogo.pngp");
-    animation: rotation 20s infinite linear;
 
 
 
