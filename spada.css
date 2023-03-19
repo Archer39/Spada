@@ -1,7 +1,7 @@
 
 
 #ui-left #logo {
-  content: url("/modules/wikirole/ui/img/logoarka.webp");
+  content: url("/modules/wikirole/ui/img/LOGO TOGO.png");
   width: 100px;
   height: 56px;
 }
@@ -9,7 +9,7 @@
 
 
 #chat-message{
-    background-image: url(/modules/wikirole/ui/img/nuovo-gatto.webp) !important;
+    background-image: url(/modules/wikirole/ui/img/Tab chat.webp) !important;
     color: white;
     font-weight: bold;
     border-bottom-color: white;
