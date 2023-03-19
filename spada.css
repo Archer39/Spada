@@ -19,6 +19,14 @@
 
 
 
+#pause img[src*="/modules/spada/ui/img/logotogo.png"] {
+    box-sizing: border-box;
+    width: 128px;
+    height: 128px;
+    padding-left: 128px;
+
+    background-image: url("/modules/spada/ui/img/logotogo.pngp");
+    animation: rotation 20s infinite linear;
 
 
 
@@ -30,11 +38,8 @@
 
 /* #region Chat Tab*/
 .message{
-    background-image: url(/modules/spada/ui/img/chatcard.webp) !important;
-    color: white;
-    font-weight: bold;
-    border-bottom-color: white;
-    text-decoration: underline;
+    background-image: url(/modules/spada/ui/img/chatcard1.webp) !important;
+
 }
 
 /* #region Remove speaker name background colors in Chat window */
