@@ -42,6 +42,3 @@
 
 }
 
-/* #region Remove speaker name background colors in Chat window */
-#chat-log .message .message-header .message-sender {
-    background-color: rgba(0,0,0,0) !important;
