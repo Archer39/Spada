@@ -1,0 +1,35 @@
+
+
+#ui-left #logo {
+  content: url("/modules/wikirole/ui/img/logoarka.webp");
+  width: 100px;
+  height: 56px;
+}
+
+
+
+#chat-message{
+    background-image: url(/modules/wikirole/ui/img/nuovo-gatto.webp) !important;
+    color: white;
+    font-weight: bold;
+    border-bottom-color: white;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+/* #endregion */
+
+/* #region Chat Tab*/
+.message{
+    background-image: url(/modules/wikirole/ui/img/chatcard.webp) !important;
+}
+
+
+
