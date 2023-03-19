@@ -1,3 +1,3 @@
 # Spada
 
-https://raw.githubusercontent.com/Archer39/Wikirole/main/module.json
+https://raw.githubusercontent.com/Archer39/Spada/main/module.json
