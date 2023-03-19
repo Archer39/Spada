@@ -1,15 +1,15 @@
 
 
 #ui-left #logo {
-  content: url("/modules/wikirole/ui/img/LOGO TOGO.png");
+  content: url("/modules/wikirole/ui/img/logotogo.png");
   width: 100px;
-  height: 56px;
+  height: 100px;
 }
 
 
 
 #chat-message{
-    background-image: url(/modules/wikirole/ui/img/Tab chat.webp) !important;
+    background-image: url(/modules/wikirole/ui/img/tabchat.webp) !important;
     color: white;
     font-weight: bold;
     border-bottom-color: white;
