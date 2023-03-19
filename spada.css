@@ -2,8 +2,8 @@
 
 #ui-left #logo {
   content: url("/modules/spada/ui/img/logotogo.png");
-  width: 70px;
-  height: 70px;
+  width: 80px;
+  height: 80px;
 }
 
 
@@ -20,9 +20,6 @@
 
 
 
-/* #region Remove speaker name background colors in Chat window */
-#chat-log .message .message-header .message-sender {
-    background-color: rgba(0,0,0,0) !important;
 
 
 
@@ -40,4 +37,6 @@
     text-decoration: underline;
 }
 
-
+/* #region Remove speaker name background colors in Chat window */
+#chat-log .message .message-header .message-sender {
+    background-color: rgba(0,0,0,0) !important;
